@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23831645.svg)](https://doi.org/10.5281/zenodo.23831645)
 # Decentralized NMPC for Cooperative Tug-Assisted Ship Berthing
 
 **Research code and numerical results associated with the manuscript:**

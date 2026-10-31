@@ -9,7 +9,8 @@ authors:
   - family-names: "Seif"
     given-names: "Mohammad Saeed"
     affiliation: "Sharif University of Technology"
-version: "1.0.0"
+version: 1.0.0
+doi: 10.5281/zenodo.23831645
 keywords:
   - decentralized nonlinear model predictive control
   - tug-assisted berthing
