@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite the associated software release."
+type: software
+title: "Decentralized nonlinear model predictive control for cooperative tug-assisted ship berthing under varying environmental conditions"
+authors:
+  - family-names: "Hamrani Salemi"
+    given-names: "Hamidreza"
+    affiliation: "Sharif University of Technology"
+  - family-names: "Seif"
+    given-names: "Mohammad Saeed"
+    affiliation: "Sharif University of Technology"
+version: "1.0.0"
+keywords:
+  - decentralized nonlinear model predictive control
+  - tug-assisted berthing
+  - KVLCC2
+  - wind and current
+abstract: "Research software and numerical data for decentralized tug-assisted berthing under varied environmental directions."
+# Add repository-code and doi only after the public URL and Zenodo DOI are verified.

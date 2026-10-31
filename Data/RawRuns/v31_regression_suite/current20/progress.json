@@ -1,0 +1,7 @@
+{
+  "status": "SUCCESS",
+  "simulation_time_s": 2581.799999999843,
+  "recorded_states": 260,
+  "recorded_decisions": 1036,
+  "note": "Diagnostic snapshot only; restart requires a new simulation."
+}

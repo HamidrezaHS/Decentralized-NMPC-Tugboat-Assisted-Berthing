@@ -1,0 +1,36 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime output. Recorded reference data are committed under Data/RawRuns.
+/results/
+/build/
+/dist/
+*.log
+*.tmp
+
+# User secrets / local credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+
+# Scientific tool sidecars
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz

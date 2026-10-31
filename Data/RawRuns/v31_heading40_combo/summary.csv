@@ -1,0 +1,2 @@
+name,psi0,wind_mps,wind_to_deg,current_mps,current_to_deg,psi0_deg,status,success,unsafe,time_s,position_error_m,heading_error_deg,min_hull_gap_m,output_folder
+combined_psi40_w8_wd90_c0p25_cd90,40.0,8.0,90.0,0.25,90.0,40.0,SUCCESS,True,False,2633.5999999997957,2.443047824909015,0.26059783006775433,8.071203945646786,results/v31_heading40_combo/combined_psi40_w8_wd90_c0p25_cd90

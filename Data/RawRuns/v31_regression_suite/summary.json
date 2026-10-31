@@ -1,0 +1,68 @@
+[
+  {
+    "case": "calm20",
+    "status": "SUCCESS",
+    "success": true,
+    "unsafe": false,
+    "time_s": 2563.1999999998598,
+    "position_error_m": 2.4584986371726845,
+    "heading_error_deg": 0.05083520288457139,
+    "min_logged_hull_gap_m": 8.445888358838744,
+    "output_folder": "results/v31_regression_suite/calm20"
+  },
+  {
+    "case": "calm40",
+    "status": "SUCCESS",
+    "success": true,
+    "unsafe": false,
+    "time_s": 2747.9999999996917,
+    "position_error_m": 2.4587985150440628,
+    "heading_error_deg": 0.11560680298527407,
+    "min_logged_hull_gap_m": 8.360972401273813,
+    "output_folder": "results/v31_regression_suite/calm40"
+  },
+  {
+    "case": "deep200",
+    "status": "SUCCESS",
+    "success": true,
+    "unsafe": false,
+    "time_s": 3589.799999998926,
+    "position_error_m": 2.4588844254382294,
+    "heading_error_deg": 0.006168467582719796,
+    "min_logged_hull_gap_m": 8.466949992308315,
+    "output_folder": "results/v31_regression_suite/deep200"
+  },
+  {
+    "case": "wind20",
+    "status": "SUCCESS",
+    "success": true,
+    "unsafe": false,
+    "time_s": 2752.199999999688,
+    "position_error_m": 2.4641631504422667,
+    "heading_error_deg": 0.3177069743911124,
+    "min_logged_hull_gap_m": 7.988503074749602,
+    "output_folder": "results/v31_regression_suite/wind20"
+  },
+  {
+    "case": "current20",
+    "status": "SUCCESS",
+    "success": true,
+    "unsafe": false,
+    "time_s": 2581.799999999843,
+    "position_error_m": 2.4578304497673944,
+    "heading_error_deg": 0.047846593988386386,
+    "min_logged_hull_gap_m": 8.449146180378861,
+    "output_folder": "results/v31_regression_suite/current20"
+  },
+  {
+    "case": "combined20",
+    "status": "SUCCESS",
+    "success": true,
+    "unsafe": false,
+    "time_s": 2258.0000000001373,
+    "position_error_m": 2.4423212246330954,
+    "heading_error_deg": 0.37447051174561796,
+    "min_logged_hull_gap_m": 7.917086722416229,
+    "output_folder": "results/v31_regression_suite/combined20"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "preset": "combined",
+  "psi0": [
+    40.0
+  ],
+  "wind_mps": [
+    8.0
+  ],
+  "current_mps": [
+    0.25
+  ],
+  "wind_angles": [
+    90.0
+  ],
+  "current_angles": [
+    90.0
+  ],
+  "target_x": 50.0,
+  "target_y": -100.0,
+  "duration": 6500.0,
+  "maxiter": 6,
+  "seed": 123,
+  "out": "results/v31_heading40_combo",
+  "max_cases": 0,
+  "plots": false,
+  "no_resume": false,
+  "environmental_reserve": "auto"
+}

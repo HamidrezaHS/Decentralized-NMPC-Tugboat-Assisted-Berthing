@@ -1,0 +1,11 @@
+{
+  "title": "Decentralized nonlinear model predictive control for cooperative tug-assisted ship berthing under varying environmental conditions",
+  "description": "Source code, numerical cases and figure-reproduction tools for the decentralized tug-assisted berthing study. The data document deterministic numerical simulations and do not establish universal operational safety.",
+  "creators": [
+    {"name": "Hamrani Salemi, Hamidreza", "affiliation": "Sharif University of Technology"},
+    {"name": "Seif, Mohammad Saeed", "affiliation": "Sharif University of Technology"}
+  ],
+  "keywords": ["tug-assisted berthing", "KVLCC2", "decentralized NMPC", "marine control", "wind and current"],
+  "upload_type": "software",
+  "access_right": "open"
+}

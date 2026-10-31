@@ -1,0 +1,29 @@
+{
+  "preset": "combined",
+  "psi0": [
+    20
+  ],
+  "wind_mps": [
+    8.0
+  ],
+  "current_mps": [
+    0.25
+  ],
+  "wind_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "current_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "maxiter": 6,
+  "seed": 123,
+  "maximum_duration_s": 6500,
+  "controller": "ship_state_local",
+  "controller_version": "oe-v4.6-coriolis-corrected+ship-state-env-reserve-v3.1"
+}

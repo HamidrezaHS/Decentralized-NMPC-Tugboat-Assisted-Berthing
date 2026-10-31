@@ -1,0 +1,19 @@
+[
+  {
+    "name": "combined_psi40_w8_wd90_c0p25_cd90",
+    "psi0": 40.0,
+    "wind_mps": 8.0,
+    "wind_to_deg": 90.0,
+    "current_mps": 0.25,
+    "current_to_deg": 90.0,
+    "psi0_deg": 40.0,
+    "status": "SUCCESS",
+    "success": true,
+    "unsafe": false,
+    "time_s": 2633.5999999997957,
+    "position_error_m": 2.443047824909015,
+    "heading_error_deg": 0.26059783006775433,
+    "min_hull_gap_m": 8.071203945646786,
+    "output_folder": "results/v31_heading40_combo/combined_psi40_w8_wd90_c0p25_cd90"
+  }
+]
