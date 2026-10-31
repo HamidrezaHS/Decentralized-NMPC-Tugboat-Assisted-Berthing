@@ -1,0 +1,10 @@
+# Archived scientific results must retain their original bytes on Git checkout.
+# The SHA256 manifest records exact files from the numerical experiments.
+# Keep CSV files in Data/ as byte-exact data, never change LF <-> CRLF.
+Data/**/*.csv -text
+
+# Keep ordinary source/document text readable across platforms.
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf

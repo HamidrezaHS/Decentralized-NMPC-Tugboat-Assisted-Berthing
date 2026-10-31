@@ -47,6 +47,16 @@ python3 -m venv .venv
 .venv/bin/python Scripts/verify_repository.py
 ```
 
+### Note on Git line endings and archived data integrity
+
+The original archive SHA-256 manifest records byte-exact CSV and JSON inputs.
+Some Git checkouts convert CSV line endings between Windows CRLF and Unix LF.
+`Scripts/verify_repository.py` accepts CSVs **only when their contents match the
+original manifest after a strictly verified line-ending-only conversion**.
+Changes to numeric values, missing files or non-CSV data still fail. The
+`.gitattributes` file prevents future conversions for archived CSV files.
+See [`docs/CSV_LINE_ENDING_FIX_FA.md`](docs/CSV_LINE_ENDING_FIX_FA.md) for help.
+
 ## Inspect the archived results without rerunning the simulator
 
 ```bash
